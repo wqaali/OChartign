@@ -19,7 +19,7 @@ namespace OandaAPICharting.Oanda
 
             string url = "https://api-fxpractice.oanda.com/v3/instruments/"+currency+"/candles?count=100&price=M&granularity="+tick+"";
             string ACC_ID = "101-001-3854888-001";
-            string token = "Bearer eccaf3ff5e81bf1dd69e539f44ee371a-5c27e8704102e60f7a0842c8cf1b8f18";
+            string token = "eccaf3ff5e81bf1dd69e539f44ee371a-5c27e8704102e60f7a0842c8cf1b8f18";
 
             // Request and Response
 
